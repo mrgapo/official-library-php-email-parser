@@ -1,4 +1,4 @@
-*** PLANCAKE PHP EMAIL PARSER ***
+ *** PLANCAKE PHP EMAIL PARSER ***
 
 N.B.: if you deal with non-English languages, we recommend you install the IMAP PHP extension:
 the Plancake PHP Email Parser will detect it and used it automatically for better results.
